@@ -14,7 +14,7 @@
 
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="home-title rightside text-center">
-                        <h3>BEN TERCÜMANIMddd</h3>
+                        <h3>BEN TERCÜMANIMDASDASDASDASD</h3>
                         <p>Para Kazanmak İster Misin ? O Zaman Doğru Yerdesin.Üye Ol - İş İlanlarını Gör - Para Kazanmaya Başla</p>
                         <a href="{{ route('tercuman-alani') }}" class="btn btn-primary">Tercüman Alanı</a>
                     </div>
