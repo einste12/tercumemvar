@@ -1,0 +1,1 @@
+<a href="{{ route('uye-gelen-teklifler') }}">"{{ $notification->data['user']['name'] }}" adlı Kullanıcı "{{$notification->data['thread']['proje_basligi'] }}" Adlı Projenize Teklif Verdi.</a><br/>
